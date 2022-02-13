@@ -1,11 +1,11 @@
 Source: emojione-picker
 Section: python
 Priority: optional
-Homepage: https://github.com/gentakojima/emojione-picker-ubuntu
+Homepage: https://github.com/victoriadrake/emojione-picker-ubuntu
 Standards-Version: 3.9.5
 X-Python-Version: << 2.8
 Build-Depends: debhelper (>= 9), python (<<2.8)
-Maintainer: Jorge Suárez de Lis <yo@jorgesuarezdelis.name>
+Maintainer: Victoria Drake <hello@victoria.dev>
 
 
 Package: emojione-picker
