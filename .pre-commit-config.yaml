@@ -14,6 +14,6 @@ repos:
       - id: markdownlint
         name: markdownlint
         description: "Lint Markdown files"
-        entry: markdownlint '**/*.md' --fix --ignore node_modules --config "./.markdownlint.json"
+        entry: markdownlint '**/*.md' --fix --ignore node_modules --disable MD013
         language: node
         types: [markdown]
